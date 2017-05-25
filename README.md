@@ -17,3 +17,6 @@
 * https://www.hackerrank.com/challenges/crush
 * https://www.hackerrank.com/challenges/swap-nodes-algo
 
+## Session 3 (25-May-2017): Data Structures
+* https://www.hackerrank.com/challenges/find-the-running-median
+* https://www.hackerrank.com/challenges/merging-communities
